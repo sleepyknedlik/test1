@@ -1,0 +1,17 @@
+abbreviation: NE
+available: false
+classes: 32
+colour: 1
+id: 1
+label: NEWC
+longName: 'new cargo #1'
+name: 'New Cargo #1'
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/new-cargo-1.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 16
